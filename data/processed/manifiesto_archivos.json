@@ -1,0 +1,386 @@
+[
+  {
+    "carpeta": "(raíz)",
+    "nombre": "SISMO 2026 VZLA",
+    "tipo": "folder",
+    "estado": "carpeta raíz",
+    "link": "https://drive.google.com/drive/folders/1o36ifaRz45kAs5rKzci49aD0mP5JB_YI",
+    "id": "1o36ifaRz45kAs5rKzci49aD0mP5JB_YI"
+  },
+  {
+    "carpeta": "(raíz)",
+    "nombre": "1_5040023583598840087 (2).pdf  [Registro Maestro 337]",
+    "tipo": "file",
+    "estado": "EXTRAÍDO",
+    "link": "https://drive.google.com/file/d/10tLqzNMBs_gl-VMiK7KaQTDbqvpSoutI/view",
+    "id": "10tLqzNMBs_gl-VMiK7KaQTDbqvpSoutI"
+  },
+  {
+    "carpeta": "(raíz)",
+    "nombre": "Ingresos por sismo en Hospitales consolidado - Consolidado.pdf",
+    "tipo": "file",
+    "estado": "PENDIENTE (PDF grande)",
+    "link": "https://drive.google.com/file/d/1Ez1nYX0kIbPqGPInDIeWw_qP4bqqI66-/view",
+    "id": "1Ez1nYX0kIbPqGPInDIeWw_qP4bqqI66-"
+  },
+  {
+    "carpeta": "(raíz)",
+    "nombre": "Listado 2 (Google Doc)",
+    "tipo": "doc",
+    "estado": "PENDIENTE",
+    "link": "https://docs.google.com/document/d/125LObYNRazMhUuxeF8FFthiA5YJaGFyApKiUHyO4olo",
+    "id": "125LObYNRazMhUuxeF8FFthiA5YJaGFyApKiUHyO4olo"
+  },
+  {
+    "carpeta": "(raíz)",
+    "nombre": "LISTAS DE PERSONAS EN MULTIPLES HOSPITALES (Google Doc)",
+    "tipo": "doc",
+    "estado": "PENDIENTE",
+    "link": "https://docs.google.com/document/d/1SHnWBNnzxsJ30Yr1bY8cF3SP2By7mX2jtquHiyKLesU",
+    "id": "1SHnWBNnzxsJ30Yr1bY8cF3SP2By7mX2jtquHiyKLesU"
+  },
+  {
+    "carpeta": "(raíz)",
+    "nombre": "CLINICAS EL AVILA",
+    "tipo": "folder",
+    "estado": "solo imágenes (4) - OCR crudo",
+    "link": "https://drive.google.com/drive/folders/1DvHmDkLOeK6NG-WlC0bphKmhDr52MY_S",
+    "id": "1DvHmDkLOeK6NG-WlC0bphKmhDr52MY_S"
+  },
+  {
+    "carpeta": "(raíz)",
+    "nombre": "HOSPITAL CARLOS ARVELEDO",
+    "tipo": "folder",
+    "estado": "doc->drive externo",
+    "link": "https://drive.google.com/drive/folders/1Yku1lGK5RVSgAS56UhbRHDhtYgraJZqj",
+    "id": "1Yku1lGK5RVSgAS56UhbRHDhtYgraJZqj"
+  },
+  {
+    "carpeta": "(raíz)",
+    "nombre": "HOSPITAL CIUDAD CARIBIA",
+    "tipo": "folder",
+    "estado": "solo imágenes (2) - OCR crudo",
+    "link": "https://drive.google.com/drive/folders/13JEMBh0VJVUxndt-wj_bujNqd_i9rin0",
+    "id": "13JEMBh0VJVUxndt-wj_bujNqd_i9rin0"
+  },
+  {
+    "carpeta": "(raíz)",
+    "nombre": "HOSPITAL DE CATIA",
+    "tipo": "folder",
+    "estado": "solo imágenes (6) - PENDIENTE",
+    "link": "https://drive.google.com/drive/folders/10gm4GStjkb6hCgr5yMdvh77H36hA7M-w",
+    "id": "10gm4GStjkb6hCgr5yMdvh77H36hA7M-w"
+  },
+  {
+    "carpeta": "(raíz)",
+    "nombre": "HOSPITAL LUCIANI CARACAS",
+    "tipo": "folder",
+    "estado": "imágenes (19); datos en Registro Maestro",
+    "link": "https://drive.google.com/drive/folders/1womt9b3TSngAE31YoYSWowYY930rZPkZ",
+    "id": "1womt9b3TSngAE31YoYSWowYY930rZPkZ"
+  },
+  {
+    "carpeta": "(raíz)",
+    "nombre": "HOSPITAL PEREZ CARREÑO",
+    "tipo": "folder",
+    "estado": "imágenes (31); datos en Registro Maestro",
+    "link": "https://drive.google.com/drive/folders/1GfyUgXJncw1qNKI1qjiceo_hv87IG0Q6",
+    "id": "1GfyUgXJncw1qNKI1qjiceo_hv87IG0Q6"
+  },
+  {
+    "carpeta": "(raíz)",
+    "nombre": "HOSPITAL UNIVERSITARIO CARACAS",
+    "tipo": "folder",
+    "estado": "1 PDF; datos en Registro Maestro",
+    "link": "https://drive.google.com/drive/folders/1A1JTzkBhBU2xT4WdUSHSD8EusPos13IJ",
+    "id": "1A1JTzkBhBU2xT4WdUSHSD8EusPos13IJ"
+  },
+  {
+    "carpeta": "(raíz)",
+    "nombre": "HOSPITAL VARGAS DE CARACAS",
+    "tipo": "folder",
+    "estado": "imágenes (5); datos en Sheet digitalizada",
+    "link": "https://drive.google.com/drive/folders/15s28bbAxuluxJbe-zb9KNJ_-ywn90qWT",
+    "id": "15s28bbAxuluxJbe-zb9KNJ_-ywn90qWT"
+  },
+  {
+    "carpeta": "(raíz)",
+    "nombre": "LINK DE BUSQUEDA DE PERSONAS",
+    "tipo": "folder",
+    "estado": "doc utilitario (no pacientes)",
+    "link": "https://drive.google.com/drive/folders/16U7z2m_yvoHfHUEikpjXAJ1_K5yEOr9g",
+    "id": "16U7z2m_yvoHfHUEikpjXAJ1_K5yEOr9g"
+  },
+  {
+    "carpeta": "(raíz)",
+    "nombre": "LISTA DIGITALIZADA DIFERENTES ESTADOS",
+    "tipo": "folder",
+    "estado": "2 Sheets digitalizadas",
+    "link": "https://drive.google.com/drive/folders/1sUF0SzGBPru03loWh6BLIKC4m-UIE87R",
+    "id": "1sUF0SzGBPru03loWh6BLIKC4m-UIE87R"
+  },
+  {
+    "carpeta": "(raíz)",
+    "nombre": "Sobrevivientes en campo de golf Playa Los cocos",
+    "tipo": "folder",
+    "estado": "solo imágenes (19)+doc - PENDIENTE",
+    "link": "https://drive.google.com/drive/folders/1EByuS5LU7mb8rIKShoOUp0jJzNyHFszT",
+    "id": "1EByuS5LU7mb8rIKShoOUp0jJzNyHFszT"
+  },
+  {
+    "carpeta": "HOSPITAL CARLOS ARVELEDO",
+    "nombre": "HOSPITAL MILITAR DR CARLOS ARVELEDO (doc->link)",
+    "tipo": "doc",
+    "estado": "EXTRAÍDO (apunta a drive externo)",
+    "link": "https://docs.google.com/document/d/1TZ6BVF9PT2KEXCbnfCcPKEDmquQsqHAGTABY3BCc858",
+    "id": "1TZ6BVF9PT2KEXCbnfCcPKEDmquQsqHAGTABY3BCc858"
+  },
+  {
+    "carpeta": "Listado Dr Carlos Arveledo 25/06 (externo roossinai09)",
+    "nombre": "lista_personal_contingencia.pdf [151]",
+    "tipo": "file",
+    "estado": "EXTRAÍDO",
+    "link": "https://drive.google.com/file/d/13U9VcEa6iNnRkLANEA_Gk9mdpVcZ0WqR/view",
+    "id": "13U9VcEa6iNnRkLANEA_Gk9mdpVcZ0WqR"
+  },
+  {
+    "carpeta": "Listado Dr Carlos Arveledo 25/06 (externo)",
+    "nombre": "IMG_6109.PNG",
+    "tipo": "file",
+    "estado": "fuente imagen del PDF",
+    "link": "https://drive.google.com/file/d/1yDDVGGQAM4nuU2UoycIzqz-EB1Cfls1U/view",
+    "id": "1yDDVGGQAM4nuU2UoycIzqz-EB1Cfls1U"
+  },
+  {
+    "carpeta": "Listado Dr Carlos Arveledo 25/06 (externo)",
+    "nombre": "IMG_6110.PNG",
+    "tipo": "file",
+    "estado": "fuente imagen del PDF",
+    "link": "https://drive.google.com/file/d/1ZicUPJIrcFhIaY8dq0zlq_hSYj_IWqVK/view",
+    "id": "1ZicUPJIrcFhIaY8dq0zlq_hSYj_IWqVK"
+  },
+  {
+    "carpeta": "Listado Dr Carlos Arveledo 25/06 (externo)",
+    "nombre": "IMG_6111.PNG",
+    "tipo": "file",
+    "estado": "fuente imagen del PDF",
+    "link": "https://drive.google.com/file/d/14YP-w3UxAMJ_nCxmj5wRZx4KfKmU16DX/view",
+    "id": "14YP-w3UxAMJ_nCxmj5wRZx4KfKmU16DX"
+  },
+  {
+    "carpeta": "Listado Dr Carlos Arveledo 25/06 (externo)",
+    "nombre": "IMG_6112.PNG",
+    "tipo": "file",
+    "estado": "fuente imagen del PDF",
+    "link": "https://drive.google.com/file/d/1c4GkqcoeHZ_ebQV0QfE1AYkuc9JHJ_f2/view",
+    "id": "1c4GkqcoeHZ_ebQV0QfE1AYkuc9JHJ_f2"
+  },
+  {
+    "carpeta": "LISTA DIGITALIZADA DIFERENTES ESTADOS",
+    "nombre": "Lista digitalizada de pacientes en hospitales (Sheet)",
+    "tipo": "sheet",
+    "estado": "EXTRAÍDO (Arvelo+Vargas+JGH)",
+    "link": "https://docs.google.com/spreadsheets/d/1wzpm_7pd0fC4hFou5FzppMNeZkd6J6NvrPqy-PWNvRY",
+    "id": "1wzpm_7pd0fC4hFou5FzppMNeZkd6J6NvrPqy-PWNvRY"
+  },
+  {
+    "carpeta": "LISTA DIGITALIZADA DIFERENTES ESTADOS",
+    "nombre": "Pacientes en hospitales 2 (Sheet)",
+    "tipo": "sheet",
+    "estado": "EXTRAÍDO (Vargas, borrador)",
+    "link": "https://docs.google.com/spreadsheets/d/1EQ-_ENQUhtLaTdZtyhLZuSJZ7WG4RUuyc7ipGc7emhM",
+    "id": "1EQ-_ENQUhtLaTdZtyhLZuSJZ7WG4RUuyc7ipGc7emhM"
+  },
+  {
+    "carpeta": "LISTA DIGITALIZADA DIFERENTES ESTADOS",
+    "nombre": "Imagen de enlace.png",
+    "tipo": "file",
+    "estado": "imagen",
+    "link": "https://drive.google.com/file/d/1NxRqLMtXrYEm3TQILN-ItE7bJ5K_0Uno/view",
+    "id": "1NxRqLMtXrYEm3TQILN-ItE7bJ5K_0Uno"
+  },
+  {
+    "carpeta": "HOSPITAL UNIVERSITARIO CARACAS",
+    "nombre": "Reporte HUC 24-06-26 (1).pdf",
+    "tipo": "file",
+    "estado": "PENDIENTE",
+    "link": "https://drive.google.com/file/d/1mA7z1Mtyb2VzvKlE2H9PBS6v8tEpdPJb/view",
+    "id": "1mA7z1Mtyb2VzvKlE2H9PBS6v8tEpdPJb"
+  },
+  {
+    "carpeta": "LINK DE BUSQUEDA DE PERSONAS",
+    "nombre": "LINK BUSCA Y REGISTRA PERSONAS (doc)",
+    "tipo": "doc",
+    "estado": "utilitario",
+    "link": "https://docs.google.com/document/d/15AENoLpeRKZN-Bmcb6eNhMCGZofnc5vDR45s4m8AGb4",
+    "id": "15AENoLpeRKZN-Bmcb6eNhMCGZofnc5vDR45s4m8AGb4"
+  },
+  {
+    "carpeta": "Sobrevivientes en campo de golf",
+    "nombre": "DIRECCION (doc)",
+    "tipo": "doc",
+    "estado": "PENDIENTE",
+    "link": "https://docs.google.com/document/d/175B0H2x0Kad6e08cwr4eRvUzu8wZHYeBD1FvkKS68kI",
+    "id": "175B0H2x0Kad6e08cwr4eRvUzu8wZHYeBD1FvkKS68kI"
+  },
+  {
+    "carpeta": "CLINICAS EL AVILA",
+    "nombre": "WhatsApp Image ... (1).jpeg",
+    "tipo": "imagen",
+    "estado": "imagen (OCR pendiente/crudo)",
+    "link": "https://drive.google.com/file/d/1aB-1pMesako_0rugAKZ1NE-H9Sdb59tH/view",
+    "id": "1aB-1pMesako_0rugAKZ1NE-H9Sdb59tH"
+  },
+  {
+    "carpeta": "CLINICAS EL AVILA",
+    "nombre": "WhatsApp Image ... (2).jpeg",
+    "tipo": "imagen",
+    "estado": "imagen (OCR pendiente/crudo)",
+    "link": "https://drive.google.com/file/d/16VkYy9pnogKsbOjkP4t8nOQe-XPVbUCZ/view",
+    "id": "16VkYy9pnogKsbOjkP4t8nOQe-XPVbUCZ"
+  },
+  {
+    "carpeta": "CLINICAS EL AVILA",
+    "nombre": "WhatsApp Image ... (3).jpeg",
+    "tipo": "imagen",
+    "estado": "imagen (OCR pendiente/crudo)",
+    "link": "https://drive.google.com/file/d/1ZRC1zj9rqedSNWoYhFmFRfwdxAqygelF/view",
+    "id": "1ZRC1zj9rqedSNWoYhFmFRfwdxAqygelF"
+  },
+  {
+    "carpeta": "CLINICAS EL AVILA",
+    "nombre": "WhatsApp Image ... .jpeg",
+    "tipo": "imagen",
+    "estado": "imagen (OCR pendiente/crudo)",
+    "link": "https://drive.google.com/file/d/1ade_iyLlp8cUchIa4Vtni_e1OeUlBXI6/view",
+    "id": "1ade_iyLlp8cUchIa4Vtni_e1OeUlBXI6"
+  },
+  {
+    "carpeta": "HOSPITAL CIUDAD CARIBIA",
+    "nombre": "WhatsApp Image 4.34.19 PM.jpeg",
+    "tipo": "imagen",
+    "estado": "imagen (OCR pendiente/crudo)",
+    "link": "https://drive.google.com/file/d/1p7jgqsgcX51LxlP0WtCJbmIoDyFM5jbL/view",
+    "id": "1p7jgqsgcX51LxlP0WtCJbmIoDyFM5jbL"
+  },
+  {
+    "carpeta": "HOSPITAL CIUDAD CARIBIA",
+    "nombre": "WhatsApp Image 4.34.20 PM.jpeg",
+    "tipo": "imagen",
+    "estado": "imagen (OCR pendiente/crudo)",
+    "link": "https://drive.google.com/file/d/1f36IPOcITMnYe1tAMIcjuMVNZSf-iBfg/view",
+    "id": "1f36IPOcITMnYe1tAMIcjuMVNZSf-iBfg"
+  },
+  {
+    "carpeta": "HOSPITAL DE CATIA",
+    "nombre": "WA 10.16.43 AM (1).jpeg",
+    "tipo": "imagen",
+    "estado": "imagen (OCR pendiente/crudo)",
+    "link": "https://drive.google.com/file/d/1sk217wPfDVR82nAPKvtTKWTGRwrM3cvI/view",
+    "id": "1sk217wPfDVR82nAPKvtTKWTGRwrM3cvI"
+  },
+  {
+    "carpeta": "HOSPITAL DE CATIA",
+    "nombre": "WA 10.16.43 AM.jpeg",
+    "tipo": "imagen",
+    "estado": "imagen (OCR pendiente/crudo)",
+    "link": "https://drive.google.com/file/d/1r-jnigTq1__XTBWjH1MfyMe0epG_Ndva/view",
+    "id": "1r-jnigTq1__XTBWjH1MfyMe0epG_Ndva"
+  },
+  {
+    "carpeta": "HOSPITAL DE CATIA",
+    "nombre": "WA 11.16.11 AM (1).jpeg",
+    "tipo": "imagen",
+    "estado": "imagen (OCR pendiente/crudo)",
+    "link": "https://drive.google.com/file/d/1PYZHee2NvOZuY3Jop55o2oQcX6HodTbz/view",
+    "id": "1PYZHee2NvOZuY3Jop55o2oQcX6HodTbz"
+  },
+  {
+    "carpeta": "HOSPITAL DE CATIA",
+    "nombre": "WA 11.16.11 AM (2).jpeg",
+    "tipo": "imagen",
+    "estado": "imagen (OCR pendiente/crudo)",
+    "link": "https://drive.google.com/file/d/1E_Q28pOXou8j1HdjcjGRd9DF55juyR3c/view",
+    "id": "1E_Q28pOXou8j1HdjcjGRd9DF55juyR3c"
+  },
+  {
+    "carpeta": "HOSPITAL DE CATIA",
+    "nombre": "WA 11.16.11 AM (3).jpeg",
+    "tipo": "imagen",
+    "estado": "imagen (OCR pendiente/crudo)",
+    "link": "https://drive.google.com/file/d/1FXG1YQMpOigPH_tUfiVRS2xLZEMYdJWE/view",
+    "id": "1FXG1YQMpOigPH_tUfiVRS2xLZEMYdJWE"
+  },
+  {
+    "carpeta": "HOSPITAL DE CATIA",
+    "nombre": "WA 11.16.11 AM.jpeg",
+    "tipo": "imagen",
+    "estado": "imagen (OCR pendiente/crudo)",
+    "link": "https://drive.google.com/file/d/1HWVdVmTc8PKqlCIg1l3hyuTwSN6PjJee/view",
+    "id": "1HWVdVmTc8PKqlCIg1l3hyuTwSN6PjJee"
+  },
+  {
+    "carpeta": "HOSPITAL VARGAS DE CARACAS",
+    "nombre": "IMG-20260625-WA0732.jpg",
+    "tipo": "imagen",
+    "estado": "imagen (OCR pendiente/crudo)",
+    "link": "https://drive.google.com/file/d/19nrLxkN53199ENbklMVLzcmQZXchD-Mz/view",
+    "id": "19nrLxkN53199ENbklMVLzcmQZXchD-Mz"
+  },
+  {
+    "carpeta": "HOSPITAL VARGAS DE CARACAS",
+    "nombre": "IMG-20260625-WA0763.jpg",
+    "tipo": "imagen",
+    "estado": "imagen (OCR pendiente/crudo)",
+    "link": "https://drive.google.com/file/d/1RHxG49VYKkjzBCofFp1DIo_am2N2KwgK/view",
+    "id": "1RHxG49VYKkjzBCofFp1DIo_am2N2KwgK"
+  },
+  {
+    "carpeta": "HOSPITAL VARGAS DE CARACAS",
+    "nombre": "IMG-20260625-WA0764.jpg",
+    "tipo": "imagen",
+    "estado": "imagen (OCR pendiente/crudo)",
+    "link": "https://drive.google.com/file/d/1F_AW9srOkj5VX7Bhntuh1oimvpruKqXx/view",
+    "id": "1F_AW9srOkj5VX7Bhntuh1oimvpruKqXx"
+  },
+  {
+    "carpeta": "HOSPITAL VARGAS DE CARACAS",
+    "nombre": "WA 7.45.54 PM (1).jpeg",
+    "tipo": "imagen",
+    "estado": "imagen (OCR pendiente/crudo)",
+    "link": "https://drive.google.com/file/d/1iPVOvTERVN_XB-5T1JqR84mKpq3Bw0Un/view",
+    "id": "1iPVOvTERVN_XB-5T1JqR84mKpq3Bw0Un"
+  },
+  {
+    "carpeta": "HOSPITAL VARGAS DE CARACAS",
+    "nombre": "WA 7.45.54 PM.jpeg",
+    "tipo": "imagen",
+    "estado": "imagen (OCR pendiente/crudo)",
+    "link": "https://drive.google.com/file/d/1sPN9GvBW43SqY6X0G2GlnLg9kO0sNZ3G/view",
+    "id": "1sPN9GvBW43SqY6X0G2GlnLg9kO0sNZ3G"
+  },
+  {
+    "carpeta": "HOSPITAL LUCIANI CARACAS",
+    "nombre": "[19 imágenes — ver carpeta]",
+    "tipo": "imagen(grupo)",
+    "estado": "OCR pendiente",
+    "link": "(ver carpeta)",
+    "id": ""
+  },
+  {
+    "carpeta": "HOSPITAL PEREZ CARREÑO",
+    "nombre": "[31 imágenes — ver carpeta]",
+    "tipo": "imagen(grupo)",
+    "estado": "OCR pendiente",
+    "link": "(ver carpeta)",
+    "id": ""
+  },
+  {
+    "carpeta": "Sobrevivientes en campo de golf",
+    "nombre": "[19 imágenes — ver carpeta]",
+    "tipo": "imagen(grupo)",
+    "estado": "OCR pendiente",
+    "link": "(ver carpeta)",
+    "id": ""
+  }
+]

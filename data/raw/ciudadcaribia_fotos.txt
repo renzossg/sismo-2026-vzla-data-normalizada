@@ -1,0 +1,18 @@
+# Hospital Ciudad Caribia - fotos (OCR confianza BAJA) - 25/26-06-26
+# Formato: APELLIDO|NOMBRE|EDAD|CEDULA|PROCEDENCIA|ESTADO
+Vetencourt|Ninoska|55|13224566|Los Corales|Ingresado
+Dewuentt|Rosibel|27|27042604||Ingresado
+Veliz|Asheley|19|31748046|Caribe|Ingresado
+Roque|Tomasa|||Caribe|Ingresado
+Velez|Mayuri|84|5094730|Caribe|Ingresado
+Tohormes|Adsony|51|12717904|Caraballeda|Ingresado
+Borges|Mariela|50|12866403|Caribe|Ingresado
+Escobar|Cleiver|28|27552520|Los Corales|Ingresado
+Davila|Anabella|13|31439901||Ingresado
+Suarez|Claret||||Trasladado a Hospital Militar
+Mayor|Eduardo|41|12091866||Trasladado a Hospital Militar
+Santos|Carlos|72|3405475||Trasladado
+Aguilar|Alfredo|57|10487289||Trasladado
+de la Oz|Valeria|25|29521698||Alta por mejoría
+Herrero|Alvaro||22504476||Alta por mejoría
+Arteaga|Rudi||10581795||Alta por mejoría

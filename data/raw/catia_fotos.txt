@@ -1,0 +1,35 @@
+# Periférico de Catia / H. Médico Quirúrgico Dr. Ricardo Baquero Gonzales - fotos legibles (25-06-26)
+# Formato: NOMBRE|EDAD|CEDULA|DIRECCION|AREA
+# --- Foto: Pacientes ingresados (Piso Cirugía / Traumatología) ---
+Luisanyeli Zapata|20|31962237||Cirugía cama 3
+Valella Gorrin|22|30114918|Caracas: El Hatillo|Cirugía
+Jhonson Estebes|24|29571733|La Guaira: Playa Grande|Cirugía
+Yeison Blanco|17||La Guaira: Monte Sano|Cirugía
+Daner Salazar|50|11557611|Caracas: Catia|Cirugía
+Yenny Gonzales|47|13828545|La Guaira: Carayaca|Traumatología Femenino
+Carla Leen|49|17700355|La Guaira|Traumatología Femenino
+Tania Terán|55|11409997|La Guaira: av Principal|Traumatología Femenino
+Rosa Garce|31|20604161|La Guaira: Playa Grande|Traumatología Femenino
+Margaret Pestano|35|19915985|La Guaira: Jaivata|Traumatología Femenino
+Yeritma Cortez|58|6340991|La Guaira: Caribe|Traumatología Femenino
+Leoneidi Sidira|30|25175345|La Guaira: Tanaguarena|Traumatología Femenino
+Alexandra Chirino|21|31995517|La Guaira: Carlos Julio|Traumatología Femenino
+Dilia Lemos|49|13531669|Caracas: La Silsa|Traumatología Femenino
+Abdaly Villamizar|28|26254624|La Guaira: Caribe|Traumatología Femenino
+Silvia Yanez|77|3557870|La Guaira: Caraballeda|Traumatología Femenino
+Ana Abreu|36|22636301|Caracas: Catia|Traumatología Femenino
+José Planas|52|12163470|La Guaira: Carayaca|Traumatología Masculino
+Álvaro Fabias|56|9960614|Caracas: Sabana Grande|Traumatología Masculino
+Jesús Orozco|63|8178191|La Guaira: Sumba|Traumatología Masculino
+Edvangely Carboda|6||Vía La Guaira|Pediatría
+Sofía López|15||La Guaira: Caribe|Pediatría
+Valeri López|12||La Guaira: Caribe|Pediatría
+Ashley López|5||La Guaira: Caribe|Pediatría
+# --- Foto: Traumatología en Pasillo / Hospitalización ---
+Yeleny Chirino|47|12389975|La Guaira: Playa Grande|Trauma pasillo
+José Alarcón|58|13515304|La Guaira: Caribe|Trauma pasillo
+Carmen Marín|53||Caracas: Catia|Hospitalización Mujeres
+Amarili Blanco|67|||Hospitalización Mujeres
+Hillali Rodriguez|31|23710358|Caracas: Catia|Hospitalización Mujeres
+Ivan Mendieta|65|||Hospitalización Masculinos
+Deivy Rodriguez|19||Caracas: Catia|Hospitalización Masculinos

@@ -1,0 +1,339 @@
+# Registro Maestro de Pacientes - Sismo Venezuela 2026 (PDF 1_5040023583598840087)
+# Formato: N|HOSPITAL|APELLIDOS Y NOMBRES|EDAD
+1|Hospital Universitario de Caracas|OROZCO YUSBELIS|35
+2|Hospital Universitario de Caracas|CUYAN FRAN|60
+3|Hospital Universitario de Caracas|OJEDA CARLOS|51
+4|Hospital Universitario de Caracas|RAMIREZ YILMAR|32
+5|Hospital Universitario de Caracas|MOYANO JAIME|28
+6|Hospital Universitario de Caracas|BENEDETI YORLIANIS|29
+7|Hospital Universitario de Caracas|TRIGOSO CARLOS|59
+8|Hospital Universitario de Caracas|MARRERO YORGELIS|20
+9|Hospital Universitario de Caracas|TOVAR LUISONA|17
+10|Hospital Universitario de Caracas|CARILLO YASMIN|67
+11|Hospital Universitario de Caracas|NOGUERA FABIAN|22
+12|Hospital Universitario de Caracas|CASTELLANO JOSE|35
+13|Hospital Universitario de Caracas|BARAJA ANDRES|41
+14|Hospital Universitario de Caracas|SANDOVAL DORIS|80
+15|Hospital Universitario de Caracas|ESCALONA JOAQUIN|65
+16|Hospital Universitario de Caracas|SOSA EMILIA|78
+17|Hospital Universitario de Caracas|SANCHEZ JOSE|19
+18|Hospital Universitario de Caracas|LOPEZ FRANCISCA|16
+19|Hospital Universitario de Caracas|MENDOZA ANA|72
+20|Hospital Universitario de Caracas|ANTEQUIA MAYULI|50
+21|Hospital Universitario de Caracas|URBINA MOISES|30
+22|Hospital Universitario de Caracas|MONTILLA NANCY|57
+23|Hospital Universitario de Caracas|ZAMBRANO DOMINI|39
+24|Hospital Universitario de Caracas|PALACIO JHON|31
+25|Hospital Universitario de Caracas|CORTEZ NOELI|30
+26|Hospital Universitario de Caracas|PANTOJA RAINER|17
+27|Hospital Universitario de Caracas|DANTOJA TONI|47
+28|Hospital Universitario de Caracas|HANMA ANTONIO|66
+29|Hospital Universitario de Caracas|URBINA MOISES|30
+30|Hospital Universitario de Caracas|MORALES MARIA|18
+31|Hospital Universitario de Caracas|COA DEIVIS|36
+32|Hospital Universitario de Caracas|RUEDA JOSE|45
+33|Hospital Universitario de Caracas|ROSIER LIZ|28
+34|Hospital Universitario de Caracas|OJEDA YONTACO|62
+35|Hospital Universitario de Caracas|MUÑOZ GEMA|24
+36|Hospital Universitario de Caracas|ACOSTA YOLERFAN|26
+37|Hospital Universitario de Caracas|RODRIGUEZ MAIKEL|42
+38|Hospital Universitario de Caracas|SOMOZA RIAND|19
+39|Hospital Universitario de Caracas|SOLORZANO OMARÑO|18
+40|Hospital Universitario de Caracas|LA VERDE VICTOR|18
+41|Hospital Universitario de Caracas|LU DINGPI|49
+42|Hospital Universitario de Caracas|WU HUA JUAN|47
+43|Hospital Universitario de Caracas|WU SUSUP|14
+44|Hospital Universitario de Caracas|CÁCERES NATHALIA|13
+45|Hospital Universitario de Caracas|CÁCERES PATRICIA|18
+46|Hospital Universitario de Caracas|CÁCERES ELIOSE|55
+47|Hospital Universitario de Caracas|PEREZ ARIANI|20
+48|Hospital Universitario de Caracas|IBARRA WUIKMER/WILMER|45
+49|Hospital Universitario de Caracas|LÓPEZ EDIS|70
+50|Hospital Universitario de Caracas|OROPEZA SOCORRO|53
+51|Hospital Universitario de Caracas|OROPEZA CATIA|52
+52|Hospital Universitario de Caracas|GOSLING HAIRMON|49
+53|Hospital Universitario de Caracas|ABREU JOSE|52
+54|Hospital Universitario de Caracas|SILVA IBRAHIM|35
+55|Hospital Universitario de Caracas|GOSLING RAYMOND|49
+56|Hospital Universitario de Caracas|MENDOZA MARIO|73
+57|Hospital Universitario de Caracas|RAMOS/SILVA MARYELIS|18
+58|Hospital Universitario de Caracas|SILVA INDIANA|46
+59|Hospital Universitario de Caracas|GUZMAN ANGELICA|48
+60|Cruz Roja|RAMÍREZ ELEYSA|64
+61|Cruz Roja|RODRÍGUEZ MARBELIS|52
+62|Cruz Roja|RODRÍGUEZ YALITZA|57
+63|Cruz Roja|ZHANGYOU CHEN|57
+64|Cruz Roja|CHEN BOYE|21
+65|Cruz Roja|FRANCO ANTONIO|63
+66|Cruz Roja|BARRETO IRAMA|74
+67|Cruz Roja|MOISES (menor)|5
+68|Cruz Roja|PÉREZ CECALIO|72
+69|Cruz Roja|MOY MARIA|47
+70|Cruz Roja|PÉREZ CARMEN|64
+71|Cruz Roja|OMAÑA RAIZA|45
+72|Cruz Roja|BELANDRIA JOFFRE|63
+73|Cruz Roja|BEGOCHEA REINALDO|43
+74|Cruz Roja|MACHADO CARMEN|77
+75|Cruz Roja|HERNÁNDEZ JACKELINE|62
+76|Cruz Roja|TINGY JOSÉ|44
+77|Cruz Roja|MUÑOZ CAMILA|15
+78|Cruz Roja|LLORET LAURA|85
+79|Cruz Roja|LLORET LILIANA|59
+80|Cruz Roja|CEDEÑO CARLOS|76
+81|Cruz Roja|VARELA ANGEL|47
+82|Cruz Roja|ARTEAGA BETI|51
+83|Cruz Roja|GUERRA PETRA|72
+84|Cruz Roja|GARCÍA ANTONIO|36
+85|Cruz Roja|ALVARADO NAIROBIS|32
+86|Cruz Roja|QUERALES ALEIDA|64
+87|Periférico de Catia|CASTILLO JORGE|26
+88|Periférico de Catia|SÁNCHEZ MARIA|77
+89|Periférico de Catia|RODRÍGUEZ CINDY|30
+90|Periférico de Catia|PABÓN MARIANGEL|21
+91|Periférico de Catia|COLMENARAS YADHER|3
+92|Periférico de Catia|MARY DURÓN|36
+93|Periférico de Catia|CONTRERAS VALERIA|18
+94|Periférico de Catia|MORENO YADER|24
+95|Periférico de Catia|ESPINOSA FERMÍNE|70
+96|Periférico de Catia|CAPELLA HAROLD|33
+97|Periférico de Catia|VALENCIA ELIX|43
+98|Periférico de Catia|RODRÍGUEZ SANELLY|12
+99|Periférico de Catia|MAYOR HENDERSON|15
+100|Periférico de Catia|LÓPEZ MARIOLY|44
+101|Periférico de Catia|HADDAN YALEISY|41
+102|Periférico de Catia|ALBINO WALTER|45
+103|Periférico de Catia|GONZÁLEZ ANDERSON|
+104|Periférico de Catia|LAMA DANIELA|3
+105|Periférico de Catia|HERLANE LÓPEZ|68
+106|Periférico de Catia|LÓPEZ NEIBOY|22
+107|Periférico de Catia|CIPRIOTA SEVILLE|29
+108|Periférico de Catia|QUETOY YSABEL|36
+109|Periférico de Catia|PASTONO GYAMILY|32
+110|Periférico de Catia|RODRÍGUEZ PINDIOLE|51
+111|Periférico de Catia|FRANKLIN ALFONSO|65
+112|Periférico de Catia|SALAZAR CAROLINE|6
+113|Periférico de Catia|MARTÍNEZ YAMILITH|30
+114|Periférico de Catia|RIVAS MARY|30
+115|Periférico de Catia|PENA YOHSEN|51
+116|Periférico de Catia|ZEALARIO ALEXIS|
+117|Periférico de Catia|GONZÁLEZ ANA|46
+118|Periférico de Catia|ENDER RANGEL|150
+119|Periférico de Catia|YACHER NANCY DURÁN|
+120|Periférico de Catia|VALERIA CONTRERAS|
+121|Periférico de Catia|YARLYS CONTRERAS|
+122|Periférico de Catia|FERMÍNE ESPINOSA|
+123|Periférico de Catia|HAROLD CAPELLA|
+124|Periférico de Catia|ALEX PALENCIA|
+125|Periférico de Catia|DANELY RODRÍGUEZ|
+126|Periférico de Catia|HELINSSON AQUINO|
+127|Periférico de Catia|YALEISY HADDAN|
+128|Periférico de Catia|GORDOFÓN GONZALEZ|
+129|Periférico de Catia|CERVELAN FERMÍNE|
+130|Hospital Domingo Luciani|IBARRA ANA|74
+131|Hospital Domingo Luciani|TORREALBA NUVIA|68
+132|Hospital Domingo Luciani|GARCIA YENNY|34
+133|Hospital Domingo Luciani|ISCALA YENNY|42
+134|Hospital Domingo Luciani|ABREU PAULINA|8
+135|Hospital Domingo Luciani|TRUJILLO ELIAN|19
+136|Hospital Domingo Luciani|LISCANO PEDRO|40
+137|Hospital Domingo Luciani|MARCANO KATIUSKA|56
+138|Hospital Domingo Luciani|ARRIETA DORIS|65
+139|Hospital Domingo Luciani|BALBUENO WILMED|37
+140|Hospital Domingo Luciani|WINCHESTER KELLYS|28
+141|Hospital Domingo Luciani|VEGA SAMUEL|11
+142|Hospital Domingo Luciani|RONDÓN ANGEL|12
+143|Hospital Domingo Luciani|RENGIFO GUILLERMINA|46
+144|Hospital Domingo Luciani|GONZALEZ OLGA|63
+145|Hospital Domingo Luciani|MIJARES ISOLIBETH|45
+146|Hospital Domingo Luciani|URBINA SILIBETO|80
+147|Hospital Domingo Luciani|BORGES LILIANE|21
+148|Hospital Domingo Luciani|ALAYON SUHYN|25
+149|Hospital Domingo Luciani|BISVAL CLARA|62
+150|Hospital Domingo Luciani|RIVAS FRANKENIL|53
+151|Hospital Domingo Luciani|PORTILLO OMAR|40
+152|Hospital Domingo Luciani|SUAREZ RENE|62
+153|Hospital Domingo Luciani|CALDERA LEWIS|40
+154|Hospital Domingo Luciani|PADILLA RODOSKI|4
+155|Hospital Domingo Luciani|RAMÍREZ MARIANGEL|33
+156|Hospital Domingo Luciani|BLANCOS YESSICA|53
+157|Hospital Domingo Luciani|RIVAS FABINA|23
+158|Hospital Domingo Luciani|MILANO GLADIVSKA|29
+159|Hospital Domingo Luciani|MUÑON MARIANGEL|59
+160|Hospital Domingo Luciani|VASCONCELO ANDREINA|43
+161|Hospital Domingo Luciani|PADILLA RODOSKI|52
+162|Hospital Domingo Luciani|PIRETO SEBASTIÁN|16
+163|Hospital Domingo Luciani|BARRETO RICARDO|42
+164|Hospital Domingo Luciani|OBREGON DIEGO|14
+165|Hospital Domingo Luciani|CABEZA KARINA|30
+166|Hospital Domingo Luciani|GONZALEZ ALEXANDRA|42
+167|Hospital Domingo Luciani|CHACÓN CARLOS|43
+168|Hospital Domingo Luciani|LOPEZ HADDY F|42
+169|Hospital Domingo Luciani|CASTILLO VICTORIA|40
+170|Hospital Domingo Luciani|CASTAÑO DANA|17
+171|Hospital Domingo Luciani|TORRES MILAGROS|46
+172|Hospital Domingo Luciani|PARRA GABRIELA|19
+173|Hospital Domingo Luciani|ARTEAGA GLADYS|72
+174|Hospital Domingo Luciani|VILCHEZ BRAYAN|23
+175|Hospital Domingo Luciani|FUENTES ALBERTO|52
+176|Hospital Domingo Luciani|PEREZ FRANCISCA|63
+177|Hospital Domingo Luciani|MARABITO JOSEANI|32
+178|Hospital Domingo Luciani|ABELLO MATILDE|36
+179|Hospital Domingo Luciani|RODRIGUEZ EDUARDO|65
+180|Hospital Domingo Luciani|DIVITO ROSA|64
+181|Hospital Domingo Luciani|GUERRERO DEIVERSON|20
+182|Hospital Domingo Luciani|CÓRDOVA ARNALDO|19
+183|Hospital Domingo Luciani|REY JENNICEL|29
+184|Hospital Domingo Luciani|RIVERO DANIEL|60
+185|Hospital Domingo Luciani|BLANCO JOSE|6
+186|Hospital Domingo Luciani|FERNANDEZ NEISY|37
+187|Hospital Domingo Luciani|ROJAS RAFAEL|50
+188|Hospital Domingo Luciani|GONZALEZ STEPHANY|22
+189|Hospital Domingo Luciani|GONZALEZ RAFAEL|39
+190|Hospital Domingo Luciani|CASTRO JUAN|26
+191|Hospital Domingo Luciani|ESCALONA IVIS|55
+192|Hospital Domingo Luciani|SERRANO NANCY|67
+193|Hospital Domingo Luciani|ROMERO JOSE|60
+194|Hospital Domingo Luciani|GUAVINI EFREN P.2|30
+195|Hospital Domingo Luciani|CISNERO ROSA|57
+196|Hospital Domingo Luciani|MUÑOZ JOSEFINA|72
+197|Hospital Domingo Luciani|ACOSTA ISAEL|10
+198|Hospital Domingo Luciani|ACOSTA ALEXANDER|47
+199|Hospital Domingo Luciani|ACOSTA HASAEL|13
+200|Hospital Domingo Luciani|BETANCOURT MARIA|74
+201|Hospital Domingo Luciani|IZQUIERDO IRAIMA|83
+202|Hospital Domingo Luciani|VASQUE LUIS|77
+203|Hospital Domingo Luciani|ALBE MANUEL|77
+204|Hospital Domingo Luciani|GONZALEZ ALBIMAR|59
+205|Hospital Domingo Luciani|FERNANDEZ EFRAIN|31
+206|Hospital Domingo Luciani|MENDEZ YESIRE|24
+207|Hospital Domingo Luciani|PARRA ESTEFANÍA|15
+208|Hospital Domingo Luciani|DELGADO EDIMAR|23
+209|Hospital Domingo Luciani|OLDAZ LUISANA|58
+210|Hospital Domingo Luciani|MACHADO ANARELLA|9
+211|Hospital Domingo Luciani|FRONTADO MIEL|7
+212|Hospital Domingo Luciani|SIMENEZ AXIEL|4
+213|Hospital Domingo Luciani|PEDRON JESÚS|68
+214|Hospital Domingo Luciani|GOYO RAFAEL|32
+215|Hospital Domingo Luciani|OMASIENTO SEBASTIÁN|16
+216|Hospital Domingo Luciani|BLANCO CARMEN|55
+217|Hospital Domingo Luciani|CABARCA VENDEZILÍN|13
+218|Hospital Domingo Luciani|SEQUELA SOFIA|19
+219|Hospital Domingo Luciani|SALAZAR ARTURO|43
+220|Hospital Pérez Carreño|MARCANO ROSA|
+221|Hospital Pérez Carreño|SANDOVAL ADRIANA|
+222|Hospital Pérez Carreño|MIRANDA VICTORIA|
+223|Hospital Pérez Carreño|GUTIERREZ JOSE|
+224|Hospital Pérez Carreño|ORANA EDUAR|
+225|Hospital Pérez Carreño|GONZALEZ MILEIBIS|
+226|Hospital Pérez Carreño|SEDEÑO MARYURI|
+227|Hospital Pérez Carreño|RAMIREZ HEILIMAR|
+228|Hospital Pérez Carreño|BRIZUELA GABRIEL|
+229|Hospital Pérez Carreño|CARRIZO VIVIANA|
+230|Hospital Pérez Carreño|GARCIA DIEGO|
+231|Hospital Pérez Carreño|MARCANO YENNI|
+232|Hospital Pérez Carreño|D ANZOLA MANUELA|
+233|Hospital Pérez Carreño|LEON GONZALO|
+234|Hospital Pérez Carreño|MIJARES CELIANA|
+235|Hospital Pérez Carreño|ORTUÑO YENNY|
+236|Hospital Pérez Carreño|PACHECO CESAR|
+237|Hospital Pérez Carreño|DIAS ANA|
+238|Hospital Pérez Carreño|URDIDAS ADRIANA|
+239|Hospital Pérez Carreño|AGUILERA ANA|
+240|Hospital Pérez Carreño|SUCRE PETNA|
+241|Hospital Pérez Carreño|ALVAREZ WILLIAN|
+242|Hospital Pérez Carreño|CARDENAS ALEXANDRA|
+243|Hospital Pérez Carreño|SUCRE FRANCIS MEDINA|
+244|Hospital Pérez Carreño|HERNANDEZ CRUZ|
+245|Hospital Pérez Carreño|RONDON FRAN|
+246|Hospital Pérez Carreño|BECERRA LEONARDO|
+247|Hospital Pérez Carreño|PAREDES CENEIDA|
+248|Hospital Pérez Carreño|RAMIREZ ORIANA|
+249|Hospital Pérez Carreño|CARDENAS ALEXANDRA|
+250|Hospital Pérez Carreño|VIERA YULID PAREDES|
+251|Hospital Pérez Carreño|CORDERO YADIRA|
+252|Hospital Pérez Carreño|RONDON DAYANA|
+253|Hospital Pérez Carreño|QUINTERO CRISDALIS|
+254|Hospital Pérez Carreño|GODOY ERIC|
+255|Hospital Pérez Carreño|MOLINA NAGIBI|
+256|Hospital Pérez Carreño|ECHARA MARIA|
+257|Hospital Pérez Carreño|GOMEZ MANUEL|
+258|Hospital Pérez Carreño|CASTILLO AYARI|
+259|Hospital Pérez Carreño|MEDINA NATHACHA|
+260|Hospital Pérez Carreño|IGLESIAS IHSEN|
+261|Hospital Pérez Carreño|VALERO MARIA FELICIA|
+262|Hospital Pérez Carreño|GUILLEN MARIA|
+263|Hospital Pérez Carreño|GARCIA JUVYER|
+264|Hospital Pérez Carreño|GRANADO CRISBEL|
+265|Hospital Pérez Carreño|MARTINEZ WILLIAMS|
+266|Hospital Pérez Carreño|LOPEZ NATIN|
+267|Hospital Pérez Carreño|LOPEZ THAIS|
+268|Hospital Pérez Carreño|FERNANDEZ ANGEL|
+269|Hospital Pérez Carreño|BRACAMONTE GENESIS|
+270|Hospital Pérez Carreño|PEROZA SAMUEL|
+271|Hospital Pérez Carreño|VIERA ROSALINDA|
+272|Hospital Pérez Carreño|NOVIS CANDELARIO|
+273|Hospital Pérez Carreño|OROPEZA LOURDES|
+274|Hospital Pérez Carreño|PALMA MILAGRO|
+275|Hospital Pérez Carreño|FERNANDEZ RODRIGO|
+276|Hospital Pérez Carreño|ORTIZ ALVARO|
+277|Hospital Pérez Carreño|QUINTERO BARBARA|
+278|Hospital Pérez Carreño|TIRADO YUNIOR|
+279|Hospital Pérez Carreño|MOSQUERA EMILI|
+280|Hospital Pérez Carreño|DIAS VICTOR|
+281|Hospital Pérez Carreño|ARAQUE MARIA|
+282|Hospital Pérez Carreño|SEDEÑO MARYURI|
+283|Hospital Pérez Carreño|RAMIREZ BARBARA|
+284|Hospital Pérez Carreño|BRITO DAVID|
+285|Hospital Pérez Carreño|DAVILA MARLENE|
+286|Hospital Pérez Carreño|GARCIA MARIO|
+287|Hospital Pérez Carreño|RODRIGUEZ FREDY|
+288|Hospital Pérez Carreño|FIGUEIRA FERNANDA|
+289|Hospital Pérez Carreño|PALMA YOSE|
+290|Hospital Pérez Carreño|ANGARITA CARMEN|
+291|Hospital Pérez Carreño|COLINA YOANDRI|
+292|Hospital Pérez Carreño|YAPTISTA YERMIN|
+293|Hospital Pérez Carreño|DIAS SANDRA|
+294|Hospital Pérez Carreño|DE SANTIAGO JUANA|
+295|Hospital Pérez Carreño|ORTUÑO YONI|
+296|Hospital Pérez Carreño|OLIVERO ANA|
+297|Hospital Pérez Carreño|MARTINEZ MARLIN|
+298|Hospital Pérez Carreño|GARCIA JUAN|
+299|Hospital Pérez Carreño|MARCANO YENNI|
+300|Hospital Pérez Carreño|DE ANZOLA MANUELA|
+301|Hospital Pérez Carreño|LEON GONZALO|
+302|Hospital Pérez Carreño|MIJARES CELIANA|
+303|Hospital Pérez Carreño|ORTUÑO YENNY|
+304|Hospital Pérez Carreño|AGUILERA ANA|
+305|Hospital Pérez Carreño|SOJA ALEJANDRA|
+306|Hospital Pérez Carreño|YEGUE EIBAN|
+307|Hospital Pérez Carreño|BERNAL MARCELA|
+308|Hospital Pérez Carreño|AZOCAR VALERIA|
+309|Hospital Pérez Carreño|MORILLO ANABELA|
+310|Hospital Pérez Carreño|MORALES LESVIA|
+311|Hospital Pérez Carreño|BUENO MERIDO|
+312|Hospital Pérez Carreño|MONTOLLA MARIA|
+313|Hospital Pérez Carreño|RIVERO MARLEIDI|
+314|Hospital Pérez Carreño|TORRES ISABEL|
+315|Hospital Pérez Carreño|LOPEZ DUFAR|
+316|Hospital Pérez Carreño|ACOSTA YANELI|
+317|Hospital Pérez Carreño|CHAVEZ NERI|
+318|Hospital Pérez Carreño|CHACON ELIZABETH|
+319|Hospital Pérez Carreño|GONZALEZ ELIZABETH|
+320|Hospital Pérez Carreño|SUCRE PETNA|
+321|Hospital Pérez Carreño|ALVAREZ WILLIAN|
+322|Hospital Pérez Carreño|CARDENAS ALEXANDRA|
+323|Hospital Pérez Carreño|HERNANDEZ CRUZ|
+324|Hospital Pérez Carreño|RONDON FRAN|
+325|Hospital Pérez Carreño|BECERRA LEONARDO|
+326|Hospital Pérez Carreño|PAREDES CRUZENDIDA|
+327|Hospital Pérez Carreño|RAMIREZ ORIANA|
+328|Hospital Pérez Carreño|PAREDES YULID|
+329|Hospital Pérez Carreño|IDAGO ELIANNI|
+330|Hospital Pérez Carreño|BASTIDO VERONICA|
+331|Hospital Pérez Carreño|GONZALEZ ISABEL|
+332|Hospital Pérez Carreño|LOPEZ FRANLEYDI|
+333|Hospital Pérez Carreño|ESTABILITO ANICAR|
+334|Hospital Pérez Carreño|NAVAS YODALIS|
+335|Hospital Pérez Carreño|GONZALEZ ADRIANA|
+336|Hospital Pérez Carreño|MARTINEZ GABRIEL|
+337|Hospital Pérez Carreño|MARTINEZ ZORAIDA|

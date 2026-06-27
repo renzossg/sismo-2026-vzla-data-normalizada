@@ -1,0 +1,47 @@
+REPORTE FINAL - SISMO 2026 VZLA
+=======================================================
+Registros crudos (todas las fuentes): 741
+Registros finales (deduplicados):     655
+  - colapsados por cédula/nombre:      86
+
+FINAL por hospital/centro:
+   132  Hospital Militar Dr. Carlos Arvelo
+   104  Hospital Pérez Carreño
+    89  Hospital Domingo Luciani
+    74  Periférico de Catia
+    69  Hospital Universitario de Caracas
+    58  Hospital Vargas de Caracas
+    53  Hospital José Gregorio Hernández
+    33  Clínica El Ávila
+    27  Cruz Roja
+    16  Hospital Ciudad Caribia
+
+FINAL por tipo de lista:
+   585  paciente
+    70  personal_contingencia
+
+FINAL por confianza:
+   433  media
+   173  alta
+    49  baja
+
+Con cédula: 305   Sin cédula: 350
+Fallecidos: 4
+Personas presentes en >1 fuente (cruce confirmado): 52
+
+Ejemplos de cruce multi-fuente:
+  [s/c] AGUILAR CARMEN (Hospital Militar Dr. Carlos Arvelo) <- Lista digitalizada de pacientes (Sheet); lista_personal_contingencia.pdf
+  [648196] AGUILAR X CARMEN (Hospital Militar Dr. Carlos Arvelo) <- Lista digitalizada de pacientes (Sheet); lista_personal_contingencia.pdf
+  [20102925] ALONDRA DIAZ DELISMAR DEL VALLE (Hospital Militar Dr. Carlos Arvelo) <- Lista digitalizada de pacientes (Sheet); lista_personal_contingencia.pdf
+  [11697809] ALVAREZ BERMO ELSY (Hospital Militar Dr. Carlos Arvelo) <- Lista digitalizada de pacientes (Sheet); lista_personal_contingencia.pdf
+  [2199218] ANCHUNDIA ISAAC (Hospital Militar Dr. Carlos Arvelo) <- Lista digitalizada de pacientes (Sheet); lista_personal_contingencia.pdf
+  [5323419] BARRIOS YOLANDA (Hospital Militar Dr. Carlos Arvelo) <- Lista digitalizada de pacientes (Sheet); lista_personal_contingencia.pdf
+  [1445299] BRICEÑO MARIA (Hospital Militar Dr. Carlos Arvelo) <- Lista digitalizada de pacientes (Sheet); lista_personal_contingencia.pdf
+  [5120175] BRITO VASQUEZ NELIDE (Hospital Militar Dr. Carlos Arvelo) <- Lista digitalizada de pacientes (Sheet); lista_personal_contingencia.pdf
+  [21282503] CASTILLO DEIMAR (Hospital Militar Dr. Carlos Arvelo) <- Lista digitalizada de pacientes (Sheet); lista_personal_contingencia.pdf
+  [15366629] CASTILLO ROSANA (Hospital Militar Dr. Carlos Arvelo) <- Lista digitalizada de pacientes (Sheet); lista_personal_contingencia.pdf
+  [5013048] COEN BLANCO (Hospital Militar Dr. Carlos Arvelo) <- Lista digitalizada de pacientes (Sheet); lista_personal_contingencia.pdf
+  [11642518] DE GUERRERO PEÑA DELIA (Hospital Militar Dr. Carlos Arvelo) <- Lista digitalizada de pacientes (Sheet); lista_personal_contingencia.pdf
+  [4631806] DE PABLO ANA (Hospital Militar Dr. Carlos Arvelo) <- Lista digitalizada de pacientes (Sheet); lista_personal_contingencia.pdf
+  [6124942] DORTA RODRIGUEZ DELIA (Hospital Militar Dr. Carlos Arvelo) <- Lista digitalizada de pacientes (Sheet); lista_personal_contingencia.pdf
+  [6330439] DURÁN AURA (Hospital Militar Dr. Carlos Arvelo) <- Lista digitalizada de pacientes (Sheet); lista_personal_contingencia.pdf
