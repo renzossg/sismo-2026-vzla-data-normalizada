@@ -3,6 +3,24 @@
 Normalización de la carpeta de Drive **SISMO 2026 VZLA** (ingresos hospitalarios tras el sismo)
 a un formato único, deduplicado, para contrastar contra una base de datos.
 
+> ## ℹ️ Sobre este repositorio
+>
+> Este repositorio **no es la fuente original** de los datos: es únicamente la **normalización
+> y estructuración** de una base de datos que ya se encuentra **pública** en Google Drive,
+> compartida abiertamente como parte de la respuesta a la emergencia del sismo.
+>
+> **Fuente original (Google Drive, pública):**
+> https://drive.google.com/drive/folders/1o36ifaRz45kAs5rKzci49aD0mP5JB_YI
+>
+> El **único objetivo** de este trabajo es **ordenar y unificar** esa información dispersa
+> (PDFs, imágenes, hojas de cálculo de distintos hospitales) en un formato consistente y
+> consultable, para facilitar la coordinación y la ubicación de personas afectadas.
+> No se recolectaron datos nuevos ni se añadió información que no estuviera ya en la fuente.
+>
+> Los datos pertenecen a sus titulares y a las instituciones que los generaron. Se pide a quien
+> los utilice hacerlo **con responsabilidad y con el único fin de ayudar** a las personas
+> afectadas por la emergencia.
+
 ## Archivos principales
 - **`sismo2026_final_dataset.json` / `.csv`** — ⭐ dataset FINAL deduplicado (una fila por persona).
 - `sismo2026_completo.json` / `.csv` — todas las filas SIN deduplicar (cada fila = una aparición en una fuente).
